@@ -1,1 +1,3 @@
 add ako pre text sa txt file
+
+add din ako pre
